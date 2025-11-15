@@ -27,7 +27,7 @@ const Hero = () => {
       <div className="relative z-10 section-padding text-center max-w-5xl mx-auto">
         <div className="animate-fade-in-up">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-tight">
-            Hi, I'm <span className="gradient-text">Your Name</span>
+            Hi, I'm <span className="gradient-text">Udit Maurya</span>
           </h1>
           <p className="text-xl md:text-2xl lg:text-3xl text-muted-foreground mb-8 font-light">
             Full Stack Developer & Creative Problem Solver
@@ -60,7 +60,7 @@ const Hero = () => {
         {/* Social Links */}
         <div className="flex gap-4 justify-center animate-fade-in" style={{ animationDelay: "0.4s" }}>
           <a
-            href="https://github.com"
+            href="https://github.com/udit-maurya1"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-secondary hover:bg-secondary/70 transition-all hover-glow"
@@ -69,7 +69,7 @@ const Hero = () => {
             <Github className="h-6 w-6" />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/udit-maurya-8bb935294/"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 rounded-full bg-secondary hover:bg-secondary/70 transition-all hover-glow"
@@ -78,7 +78,7 @@ const Hero = () => {
             <Linkedin className="h-6 w-6" />
           </a>
           <a
-            href="mailto:your.email@example.com"
+            href="mailto:udit0maurya@gmail.com"
             className="p-3 rounded-full bg-secondary hover:bg-secondary/70 transition-all hover-glow"
             aria-label="Email"
           >

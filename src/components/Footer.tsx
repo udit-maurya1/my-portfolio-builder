@@ -15,7 +15,7 @@ const Footer = () => {
             
             <div className="flex gap-4">
               <a
-                href="https://github.com"
+                href="https://github.com/udit-maurya1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full hover:bg-secondary transition-colors"
@@ -24,7 +24,7 @@ const Footer = () => {
                 <Github className="h-5 w-5" />
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/udit-maurya-8bb935294/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 rounded-full hover:bg-secondary transition-colors"
@@ -33,7 +33,7 @@ const Footer = () => {
                 <Linkedin className="h-5 w-5" />
               </a>
               <a
-                href="mailto:your.email@example.com"
+                href="mailto:udit0maurya@gmail.com"
                 className="p-2 rounded-full hover:bg-secondary transition-colors"
                 aria-label="Email"
               >
@@ -44,7 +44,7 @@ const Footer = () => {
           
           <div className="mt-8 pt-8 border-t border-border/50 text-center">
             <p className="text-muted-foreground text-sm flex items-center justify-center gap-2">
-              Made with <Heart className="h-4 w-4 text-destructive fill-current" /> by Your Name
+              Made with <Heart className="h-4 w-4 text-destructive fill-current" /> by Udit 
               <span className="mx-2">•</span>
               © {new Date().getFullYear()}
             </p>

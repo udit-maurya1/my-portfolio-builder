@@ -4,18 +4,14 @@ const skills = [
   {
     icon: Code2,
     title: "Frontend Development",
-    items: ["React", "TypeScript", "Next.js", "TailwindCSS", "Vue.js"]
+    items: ["React", "TypeScript", "Next.js", "TailwindCSS", ]
   },
   {
     icon: Database,
     title: "Backend Development",
     items: ["Node.js", "Python", "PostgreSQL", "MongoDB", "REST APIs"]
   },
-  {
-    icon: Rocket,
-    title: "Cloud & DevOps",
-    items: ["AWS", "Docker", "CI/CD", "Vercel", "Supabase"]
-  },
+ 
   {
     icon: Palette,
     title: "Design & UX",
@@ -24,12 +20,7 @@ const skills = [
   {
     icon: Zap,
     title: "Tools & Workflow",
-    items: ["Git", "VS Code", "Jira", "Postman", "Webpack"]
-  },
-  {
-    icon: Shield,
-    title: "Best Practices",
-    items: ["Testing", "Security", "Performance", "Clean Code", "Agile"]
+    items: ["Git", "VS Code",  "Postman", ]
   }
 ];
 
