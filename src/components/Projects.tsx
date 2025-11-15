@@ -7,14 +7,14 @@ const projects = [
     title: "E-Commerce Platform",
     description: "A full-stack e-commerce solution with real-time inventory management, secure payments, and admin dashboard.",
     tech: ["React", "Node.js", "PostgreSQL", "Stripe"],
-    github: "https://github.com",
+    github: "https://github.com/udit-maurya1/E-com",
     live: "https://example.com"
   },
   {
-    title: "Task Management App",
-    description: "Collaborative task management tool with real-time updates, team workspaces, and productivity analytics.",
+    title: "ResQMe",
+    description: "ResQMe connects people in danger with instant nearby help through a real-time SOS network.",
     tech: ["Next.js", "TypeScript", "Supabase", "TailwindCSS"],
-    github: "https://github.com",
+    github: "https://github.com/Shivansh2409/ResQMe",
     live: "https://example.com"
   },
   {

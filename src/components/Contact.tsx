@@ -43,7 +43,7 @@ const Contact = () => {
             </label>
             <Input
               id="name"
-              placeholder="Your name"
+              placeholder="Udit Maurya"
               value={formData.name}
               onChange={(e) => setFormData({ ...formData, name: e.target.value })}
               required
@@ -98,7 +98,7 @@ const Contact = () => {
             href="mailto:your.email@example.com"
             className="text-primary hover:text-primary/80 text-lg font-medium transition-colors"
           >
-            your.email@example.com
+            udit0maurya@gmail.com
           </a>
         </div>
       </div>
