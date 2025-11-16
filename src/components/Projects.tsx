@@ -16,20 +16,6 @@ const projects = [
     tech: ["Next.js", "TypeScript", "Supabase", "TailwindCSS"],
     github: "https://github.com/Shivansh2409/ResQMe",
     live: "https://example.com"
-  },
-  {
-    title: "AI Content Generator",
-    description: "AI-powered content creation tool that generates blog posts, social media content, and marketing copy.",
-    tech: ["React", "Python", "OpenAI API", "FastAPI"],
-    github: "https://github.com",
-    live: "https://example.com"
-  },
-  {
-    title: "Portfolio Analytics",
-    description: "Real-time analytics dashboard for tracking portfolio performance with interactive charts and insights.",
-    tech: ["Vue.js", "D3.js", "Firebase", "Chart.js"],
-    github: "https://github.com",
-    live: "https://example.com"
   }
 ];
 
