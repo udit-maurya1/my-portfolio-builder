@@ -44,7 +44,7 @@ const Footer = () => {
           
           <div className="mt-8 pt-8 border-t border-border/50 text-center">
             <p className="text-muted-foreground text-sm flex items-center justify-center gap-2">
-              Made with <Heart className="h-4 w-4 text-destructive fill-current" /> by Udit 
+              Made with React by Udit 
               <span className="mx-2">•</span>
               © {new Date().getFullYear()}
             </p>
